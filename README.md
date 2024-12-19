@@ -24,7 +24,11 @@ This is the official repo for the paper:
 **[LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation](https://lams-assistance.github.io/)**  
 [Yiran Tao*](https://yirantao1000.github.io/), [Jehan Yang*](https://jehanyang.github.io/), [Dan Ding](https://www.shrs.pitt.edu/people/dan-ding), [Zackory Erickson](https://zackory.com/)
 
-accepted to HRI 2025 
+_Accepted to HRI 2025_
+
+
+> Teleoperating robotic manipulators via interfaces like joysticks often requires frequent switching between control modes, where each mode maps joystick movements to specific robot actions. LAMS (LLM-Driven Automatic Mode Switching) is a novel approach that leverages Large Language Models (LLMs) to automatically switch control modes based on task context. LAMS requires no prior task demonstrations and incrementally improves by integrating user-generated mode-switching examples.
+
 
 Teleoperating robotic manipulators via interfaces like joysticks often requires frequent switching between control modes, where each mode maps joystick movements to specific robot actions. LAMS (LLM-Driven Automatic Mode Switching) is a novel approach that leverages Large Language Models (LLMs) to automatically switch control modes based on task context. LAMS requires no prior task demonstrations and incrementally improves by integrating user-generated mode-switching examples. 
 
