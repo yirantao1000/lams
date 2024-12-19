@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img width="250px" src="imgs/teaser.png"/>
+  <img width="600px" src="imgs/teaser.png"/>
 </div> 
 
 <p align="left">
@@ -78,8 +78,8 @@ Simply run the same code multiple times for incremental improvement. LAMS will a
 
 - Simply run the same code multiple times to enable incremental improvement.
 - LAMS automatically:
-  - Saves user-generated examples in the `examples` folder.
-  - Updates summarized rules in the `rules` folder.
+  - Creates an `examples` folder and saves user-generated examples.
+  - Creates a `rules` folder and updates summarized rules.
   - Modifies `example_index` and `interact_index` in the config file.
 
 
