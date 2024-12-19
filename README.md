@@ -30,8 +30,6 @@ _Accepted to HRI 2025_
 > Teleoperating robotic manipulators via interfaces like joysticks often requires frequent switching between control modes, where each mode maps joystick movements to specific robot actions. LAMS (LLM-Driven Automatic Mode Switching) is a novel approach that leverages Large Language Models (LLMs) to automatically switch control modes based on task context. LAMS requires no prior task demonstrations and incrementally improves by integrating user-generated mode-switching examples.
 
 
-Teleoperating robotic manipulators via interfaces like joysticks often requires frequent switching between control modes, where each mode maps joystick movements to specific robot actions. LAMS (LLM-Driven Automatic Mode Switching) is a novel approach that leverages Large Language Models (LLMs) to automatically switch control modes based on task context. LAMS requires no prior task demonstrations and incrementally improves by integrating user-generated mode-switching examples. 
-
 This repository provides the official implementation of LAMS, designed for experiments with a Kinova robotic arm.
 
 <!-- ## Table of Contents
