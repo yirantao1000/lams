@@ -1,0 +1,117 @@
+{
+    "task_name": "book",
+    "participant_number": 1,
+    "task": "Pick up a book lying on the table with its spine facing up, then put it into a bookshelf.",
+    "use_examples": true,
+    "shuffle": true,
+    "inherit_rules": true,
+    "sample_all_examples": false,
+    "all_rules": true,
+    "one_rule_per_example": false,
+    "update_rules": true,
+    "objects": [
+        "book",
+        "book shelf"
+    ],
+    "position_approximate": 5,
+    "orientation_approximate": 30,
+    "decimal": 0,
+    "object_locations": [
+        [
+            [
+                64.06,
+                15.16,
+                10.0,
+                180.0,
+                0.0,
+                15.0
+            ],
+            [
+                85.28,
+                -1.42,
+                10.0,
+                90.0,
+                0.0,
+                60.0
+            ]
+        ],
+        [
+            [
+                48.92,
+                30.41,
+                10.0,
+                180.0,
+                0.0,
+                180.0
+            ],
+            [
+                80.15,
+                35.21,
+                10.0,
+                90.0,
+                0.0,
+                120.0
+            ]
+        ],
+        [
+            [
+                59.64,
+                20.66,
+                10.0,
+                180.0,
+                0.0,
+                30.0
+            ],
+            [
+                79.03,
+                5.16,
+                10.0,
+                90.0,
+                0.0,
+                60.0
+            ]
+        ],
+        [
+            [
+                51.62,
+                25.83,
+                10.0,
+                180.0,
+                0.0,
+                150.0
+            ],
+            [
+                84.72,
+                17.96,
+                10.0,
+                90.0,
+                0.0,
+                120.0
+            ]
+        ]
+    ],
+    "example_file": "book.txt",
+    "example_index": 0,
+    "interact_index": 0,
+    "vision": false,
+    "to_be_grasped": [
+        "book"
+    ],
+    "natural_languages": true,
+    "use_robot_location": true,
+    "relative": true,
+    "holding_prompt": true,
+    "always_opposite": false,
+    "gripper_mode": true,
+    "summarize_examples": true,
+    "binary_gripper": true,
+    "gripper_change_time": 1,
+    "gripper_discrete_nums": 5,
+    "switch_previous_threshold": 0.1,
+    "use_orientation_examples": false,
+    "use_coordinate_system_information": false,
+    "switch_time": 1.5,
+    "speed": 0.08,
+    "xbox_threshold": 0.5,
+    "hat_gap_time": 0.5
+}

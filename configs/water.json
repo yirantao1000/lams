@@ -1,0 +1,151 @@
+{
+    "task_name": "water",
+    "participant_number": 1,
+    "task": "Open the cap of a bottle, then pick up the bottle and pour what's inside into a bowl.",
+    "use_examples": true,
+    "shuffle": true,
+    "inherit_rules": true,
+    "sample_all_examples": false,
+    "all_rules": true,
+    "one_rule_per_example": false,
+    "update_rules": true,
+    "objects": [
+        "bottle cap",
+        "bottle",
+        "bowl"
+    ],
+    "position_approximate": 5,
+    "orientation_approximate": 30,
+    "decimal": 0,
+    "object_locations": [
+        [
+            [
+                40.05,
+                34.77,
+                12.5,
+                180.0,
+                0.0,
+                90.0
+            ],
+            [
+                40.05,
+                34.77,
+                3.0,
+                90.0,
+                0.0,
+                90.0
+            ],
+            [
+                66.45,
+                5.0,
+                6.0,
+                90.0,
+                0.0,
+                90.0
+            ]
+        ],
+        [
+            [
+                45.33,
+                25.23,
+                12.5,
+                180.0,
+                0.0,
+                90.0
+            ],
+            [
+                45.33,
+                25.23,
+                3.0,
+                90.0,
+                0.0,
+                90.0
+            ],
+            [
+                71.01,
+                36.88,
+                6.0,
+                90.0,
+                0.0,
+                90.0
+            ]
+        ],
+        [
+            [
+                51.61,
+                28.73,
+                12.5,
+                180.0,
+                0.0,
+                90.0
+            ],
+            [
+                51.61,
+                28.73,
+                3.0,
+                90.0,
+                0.0,
+                90.0
+            ],
+            [
+                60.45,
+                -1.8,
+                6.0,
+                90.0,
+                0.0,
+                90.0
+            ]
+        ],
+        [
+            [
+                54.97,
+                19.78,
+                12.5,
+                180.0,
+                0.0,
+                90.0
+            ],
+            [
+                54.97,
+                19.78,
+                3.0,
+                90.0,
+                0.0,
+                90.0
+            ],
+            [
+                70.47,
+                41.86,
+                6.0,
+                90.0,
+                0.0,
+                90.0
+            ]
+        ]
+    ],
+    "example_file": "water.txt",
+    "example_index": 0,
+    "interact_index": 0,
+    "vision": false,
+    "to_be_grasped": [
+        "bottle cap",
+        "bottle"
+    ],
+    "natural_languages": true,
+    "use_robot_location": true,
+    "relative": true,
+    "holding_prompt": false,
+    "always_opposite": false,
+    "gripper_mode": true,
+    "summarize_examples": true,
+    "binary_gripper": true,
+    "gripper_change_time": 1,
+    "gripper_discrete_nums": 5,
+    "switch_previous_threshold": 0.1,
+    "use_orientation_examples": false,
+    "use_coordinate_system_information": false,
+    "switch_time": 1.5,
+    "speed": 0.08,
+    "xbox_threshold": 0.5,
+    "hat_gap_time": 0.5
+}
