@@ -64,17 +64,21 @@ This repository provides the official implementation of LAMS, designed for exper
    ```
 
 
-## Run LAMS
+## Running LAMS
 
-Book storage task:
-```
-python main.py --config_path configs/book.json 
-```
-Water Pouring task:
-```
-python main.py --config_path configs/water.json 
-```
-Simply run the same code multiple times for incremental improvement. LAMS will automatically save user generated examples in examples folder, and the summarized rules in rules folder. "example_index" and "interact_index" in the config file will also update automatically. 
+LAMS supports different tasks. Below are examples of how to execute them:
+
+1. **Book Storage Task**:
+   ```bash
+   python main.py --config_path configs/book.json
+   ```
+
+2. **Water Pouring Task**:
+   ```bash
+   python main.py --config_path configs/water.json
+   ```
+   
+LAMS does not require any task-specific examples or demonstrations to work. Feel free to explore tasks beyond the above two we presented in the paper. To try a different task, simply modify the corresponding values in the configuration file.
 
 ### Incremental Improvement
 
