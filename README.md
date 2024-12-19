@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img width="200px" src="imgs/logo_new.png"/>
+  <img width="150px" src="imgs/logo_new.png"/>
   
   # LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation
   ### HRI 2025
 </div>
 
 <div align="center">
-  <img src="imgs/teaser.png"/>
+  <img width="250px" src="imgs/teaser.png"/>
 </div> 
 
 <p align="left">
