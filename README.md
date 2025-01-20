@@ -11,7 +11,7 @@
 </div> 
 
 <p align="left">
-    <a href=''>
+    <a href='https://arxiv.org/abs/2501.08558'>
       <img src='https://img.shields.io/badge/Paper-arXiv-green?style=plastic&logo=arXiv&logoColor=green' alt='Paper arXiv'>
     </a>
     <a href='https://lams-assistance.github.io/'>
@@ -96,11 +96,14 @@ LAMS does not require any task-specific examples or demonstrations to work. Feel
 
 ## Citation
 If you find this codebase/paper useful for your research, please consider citing:
-<!-- ```
-@article{wang2023robogen,
-  title={Robogen: Towards unleashing infinite data for automated robot learning via generative simulation},
-  author={Wang, Yufei and Xian, Zhou and Chen, Feng and Wang, Tsun-Hsuan and Wang, Yian and Fragkiadaki, Katerina and Erickson, Zackory and Held, David and Gan, Chuang},
-  journal={arXiv preprint arXiv:2311.01455},
-  year={2023}
+```
+@misc{tao2025lamsllmdrivenautomaticmode,
+      title={LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation}, 
+      author={Yiran Tao and Jehan Yang and Dan Ding and Zackory Erickson},
+      year={2025},
+      eprint={2501.08558},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2501.08558}, 
 }
-``` -->
+```
