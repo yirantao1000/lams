@@ -3,7 +3,7 @@
   <img width="150px" src="imgs/logo_new.png"/>
   
   # LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation
-  ### HRI 2025
+  ### HRI 2025, Best Paper Award Finalist
 </div>
 
 <div align="center">
